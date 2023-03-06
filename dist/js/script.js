@@ -105,6 +105,3 @@ window.addEventListener('DOMContentLoaded', function () {
   setClock('.timer', deadline);
 });
 
-let a = 863000000;
-let ssss = Math.floor(a / (1000 * 60 * 60) / 24);
-console.log(ssss);
